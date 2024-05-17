@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #bcbbb1;
+  }
+   
+#head-text {
+    color: #223244;
+    font-weight: bold;
+}
+
+
+#input-window {
+    border-radius: 5px;
+    border: 0px;
+    width: 300px;
+    height: 26px;
+}
+
+#start-convert {
+    background-color: #223244;
+    border: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 50px;
+    height: 30px;
+}
+#output-arer{
+    position:relative;
+    width: 360px;
+    margin: 0 auto;
+}
+
+#output-window {
+    text-align: center;
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 5px;
+    color: #223244;
+    overflow-wrap: break-word;
+    height: auto;
+    width: 100%;
+   
+}
+
+/* 223244 やや明るいい青 */
+
+/* 182534 くらい青　*/
